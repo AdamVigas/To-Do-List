@@ -18,4 +18,4 @@ Feel free to contribute to this project by submitting pull requests or reporting
 
 **Screenshot:**
 
-![To-Do-List](src/todolist.gif)
+![To-Do-List](media/todolist.gif)
