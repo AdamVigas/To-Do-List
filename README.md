@@ -16,6 +16,6 @@ This is a simple ToDo list web application built using HTML, CSS, and JavaScript
 
 Feel free to contribute to this project by submitting pull requests or reporting issues.
 
-**Screenshot:**
+**Example:**
 
 ![To-Do-List](media/todolist.gif)
