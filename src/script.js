@@ -23,6 +23,7 @@ function addTask(checked, taskName) {
         let liToRemove = this.closest('li');
         // Remove the <li> element from the DOM
         liToRemove.remove();
+        updateLocalStorage();
     });
 
     // Attach event listener to the newly created checkbox
